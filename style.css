@@ -110,11 +110,11 @@ a:hover {
 }
 .list-inline i:hover {
   color: #0008C1;
-  font-size: 41px;
-  margin: 0 auto;
+  /* font-size: 41px; */
+  /* margin: 0 auto;
   width: auto;
-   height: 100px;
-  transition: transform .4s;
+  height: 100px;
+  transition: transform .4s; */
 }
 
 /* Design adjustments using id (1% design remaining) */

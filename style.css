@@ -3,12 +3,6 @@ h1 {
   font-size: 31px;
   font-weight: 700;
 }
-span {
-  position: absolute;
-  top:0;
-  right:0;
-  transition: ease 0.3s all
-}
 
 h2 {
   color: #EA047E;
@@ -116,10 +110,10 @@ a:hover {
 }
 .list-inline i:hover {
   color: #0008C1;
-  font-size: 42px;
+  font-size: 41px;
   margin: 0 auto;
   width: auto;
-  /* height: 100px; */
+   height: 100px;
   transition: transform .4s;
 }
 

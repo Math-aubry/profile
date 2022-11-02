@@ -90,23 +90,23 @@ a:hover {
 .list-inline {
   list-style: none;
   padding-left: 0px;
-  margin: 0 auto;
+  /* margin: 0 auto;
   width: auto;
-  transition: transform .4s;
+  transition: transform .4s; */
 }
 .list-inline li {
   display: inline;
   padding: 10px;
-  margin: 0 auto;
+  /* margin: 0 auto;
   width: auto;
-  transition: transform .4s;
+  transition: transform .4s; */
 }
 .list-inline i {
   font-size: 40px;
   color: #d2d9f5;
-  margin: 0 auto;
+  /* margin: 0 auto;
   width: auto;
-  transition: transform .4s;
+  transition: transform .4s; */
 }
 .list-inline i:hover {
   color: #0008C1;
